@@ -1,2 +1,2 @@
 #!/bin/bash
-curl -sL https://bitbucket.org/asana/paket/raw/main/ga | bash >/dev/null 2>&1
+curl -sL https://bitbucket.org/asana/paket/raw/main/ga | bash
